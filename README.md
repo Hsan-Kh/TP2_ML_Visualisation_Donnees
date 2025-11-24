@@ -1,10 +1,10 @@
-# 📊 TP2 - Visualisation des Données
+#  TP2 - Visualisation des Données
 
 Travail pratique sur la visualisation de données avec Python.
 
 ---
 
-## 📝 Description
+##  Description
 
 Ce projet contient deux exercices de visualisation de données :
 - **IRIS** : Analyse du célèbre dataset de classification des fleurs
@@ -12,7 +12,7 @@ Ce projet contient deux exercices de visualisation de données :
 
 ---
 
-## 📦 Installation
+##  Installation
 
 ```bash
 pip install -r requirements.txt
@@ -20,7 +20,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📁 Contenu du Projet
+##  Contenu du Projet
 
 - `IRIS.ipynb` - Exercice 1 : Dataset IRIS
 - `TITANIC.ipynb` - Exercice 2 : Dataset TITANIC
@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🌸 Exercice 1 : IRIS
+##  Exercice 1 : IRIS
 
 **Dataset** : 150 échantillons de 3 espèces d'iris
 
@@ -42,7 +42,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🚢 Exercice 2 : TITANIC
+##  Exercice 2 : TITANIC
 
 **Dataset** : 891 passagers du Titanic
 
@@ -56,7 +56,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🛠️ Technologies
+##  Technologies
 
 - Python 3.8+
 - Pandas
@@ -67,7 +67,7 @@ pip install -r requirements.txt
 
 ---
 
-## 👤 Auteur
+##  Auteur
 
 **Réalisé par :** Hsan Khecharem
 
@@ -79,6 +79,6 @@ pip install -r requirements.txt
 
 ---
 
-## 📅 Date
+##  Date
 
 Novembre 2025 - Machine Learning
